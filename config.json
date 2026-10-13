@@ -1,0 +1,8 @@
+{
+  "status_text": "/help",
+  "embed_color": "5865F2",
+
+  "welcome_channel_id": 0,
+  "welcome_message": "Welcome to **{server}**, {mention}! You're member #{count}. Say hi!",
+  "auto_role_id": 0
+}
